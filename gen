@@ -1,0 +1,7 @@
+echo "# Newt" >> README.md
+git init
+git add README.md
+git commit -m“first commit”
+git分支-M主
+git remote添加起源 https://github.com/Newtpro/Newt.git
+git push -u origin main
